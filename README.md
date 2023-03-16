@@ -4,8 +4,8 @@
 
 Here are some of my current status updates:
 
-- 🔭 I’m currently working on learning to program, and product design for several applications I want to develop as portfolio projects.
-- 🌱 I’m currently learning javascript, and then I'm branching into learning react, api's, node, npm, mongodb, next, typscript, MaterialUI, Redux, Electron, Jest, Netlify, Vercel, Firebase, and Solidity. That's my learning branch.
+- 🔭 I’m currently working on learning to program, and product design for several applications I want to develop for my portfolio.
+- 🌱 I’m currently learning Javascript/Git/GitHub/GitKraken, and then I'm branching into learning React, API's, Node, npm, Mongodb, Next, Typscript, MaterialUI, Redux, Electron, Jest, Netlify, Vercel, Firebase, Solidity, Javascript Algorithms and Data Structures. That's my learning branch... also taking CS50x.
 - 👯 I’m looking to collaborate on finding a FullStack developer job.
 - 🤔 I’m looking for help with getting my first development job.
 - 💬 Ask me about anything you want, and if I can help I will.
