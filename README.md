@@ -8,8 +8,6 @@
 - 👯 I’m looking to collaborate on projects where I can contribute to the lifecycle of great software.
 - 🤔 I’m looking for help with getting a great FullStack opportunities in Denver, CO or remote.
 - 💬 Ask me about anything you want, and if I can help I will.
-- 📫 How to reach me: http://www.paulgrunt.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love bikes! I've been an avid cyclist my entire life. I've worked in the bike industry in many roles. I ride all the bikes, but my main focus is on road racing.
 
 ### Languages and Tools :
