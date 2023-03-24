@@ -1,7 +1,7 @@
 
 ## Hello World! 👋
 
-### About Me :
+### `About Me` :
 
 - 🔭 I’m currently working on growing my programming knowledge, and product design skills.
 - 🌱 I’m currently learning Javascript/Git/GitHub/GitKraken, and then I'm branching into learning React, API's, Node, npm, Mongodb, Next, Typscript, MaterialUI, Redux, Electron, Jest, Netlify, Vercel, Firebase, Solidity, Javascript Algorithms and Data Structures. That's my learning branch... also taking CS50x.
@@ -10,7 +10,7 @@
 - 💬 Ask me about anything you want, and if I can help I will.
 - ⚡ Fun fact: I love bikes! I've been an avid cyclist my entire life. I've worked in the bike industry in many roles. I ride all the bikes, but my main focus is on road racing.
 
-### Languages and Tools :
+### `Languages and Tools` :
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
